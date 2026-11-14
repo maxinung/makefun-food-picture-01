@@ -1,0 +1,12 @@
+{
+  "name": "food-picture-01",
+  "version": "1.0.0",
+  "description": "Procedural ramen bowl generator for make.fun food-picture-01",
+  "main": "main.ts",
+  "scripts": {
+    "test": "node --test main.ts"
+  },
+  "keywords": ["makefun", "food", "procedural", "png"],
+  "license": "MIT",
+  "type": "module"
+}
